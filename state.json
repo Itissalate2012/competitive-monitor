@@ -1,0 +1,11 @@
+{
+  "c1": {
+    "id": "c1",
+    "name": "Northwind Cloud",
+    "url": "https://example.com",
+    "currentPrice": 49,
+    "prevPrice": 59,
+    "promo": null,
+    "lastChecked": "2026-10-23T22:58:05.328Z"
+  }
+}
