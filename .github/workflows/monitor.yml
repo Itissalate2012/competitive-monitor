@@ -22,10 +22,12 @@ jobs:
           node-version: 22
 
       - name: Install dependencies
-        run: npm install
+        run: |
+          npm install
+          chmod -R +x node_modules/.bin || true
 
       - name: Run competitive monitor
-        run: npx --yes tsx src/workflow.ts --once
+        run: npx tsx src/workflow.ts --once
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
 
