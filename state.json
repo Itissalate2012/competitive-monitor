@@ -7,5 +7,41 @@
     "prevPrice": 59,
     "promo": null,
     "lastChecked": "2026-10-23T22:58:05.328Z"
+  },
+  "allali": {
+    "id": "allali",
+    "name": "Groupe Allali Immobilier",
+    "url": "https://www.allali.ma/",
+    "currentPrice": 0,
+    "prevPrice": 0,
+    "promo": null,
+    "lastChecked": "2026-10-24T00:36:53.016Z"
+  },
+  "mfadel": {
+    "id": "mfadel",
+    "name": "Groupe Mfadel",
+    "url": "https://groupemfadel.com/",
+    "currentPrice": 0,
+    "prevPrice": 0,
+    "promo": null,
+    "lastChecked": "2026-10-24T00:36:56.868Z"
+  },
+  "klk": {
+    "id": "klk",
+    "name": "KLK Khayatey Living",
+    "url": "https://klk.ma/",
+    "currentPrice": 0,
+    "prevPrice": 0,
+    "promo": null,
+    "lastChecked": "2026-10-24T00:36:57.425Z"
+  },
+  "kettani": {
+    "id": "kettani",
+    "name": "Kettani Immobilier",
+    "url": "https://www.kettani-immobilier.com/",
+    "currentPrice": 0,
+    "prevPrice": 0,
+    "promo": null,
+    "lastChecked": "2026-10-24T00:36:58.109Z"
   }
 }
