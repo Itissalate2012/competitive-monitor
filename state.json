@@ -15,7 +15,7 @@
     "currentPrice": 0,
     "prevPrice": 0,
     "promo": null,
-    "lastChecked": "2026-10-24T12:22:30.748Z"
+    "lastChecked": "2026-10-25T12:52:58.873Z"
   },
   "mfadel": {
     "id": "mfadel",
@@ -24,7 +24,7 @@
     "currentPrice": 0,
     "prevPrice": 0,
     "promo": null,
-    "lastChecked": "2026-10-24T12:22:55.111Z"
+    "lastChecked": "2026-10-25T12:53:02.952Z"
   },
   "klk": {
     "id": "klk",
@@ -33,7 +33,7 @@
     "currentPrice": 0,
     "prevPrice": 0,
     "promo": null,
-    "lastChecked": "2026-10-24T12:22:56.249Z"
+    "lastChecked": "2026-10-25T12:53:03.846Z"
   },
   "kettani": {
     "id": "kettani",
@@ -42,6 +42,6 @@
     "currentPrice": 0,
     "prevPrice": 0,
     "promo": null,
-    "lastChecked": "2026-10-24T12:22:57.503Z"
+    "lastChecked": "2026-10-25T12:53:04.808Z"
   }
 }
